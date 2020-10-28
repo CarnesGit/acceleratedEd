@@ -1,0 +1,17 @@
+table {
+    border: solid 3px black;
+}
+
+.cell{
+    border: solid 1px black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#fill{
+    background-color: black;
+}
+
+.def{
+    width: 340px;
+}
