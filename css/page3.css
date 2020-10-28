@@ -8,6 +8,10 @@ table {
     padding-right: 5px;
 }
 
+.cell:hover{
+    cursor: pointer;
+}
+
 #fill{
     background-color: black;
 }
