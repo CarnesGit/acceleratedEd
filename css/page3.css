@@ -19,3 +19,15 @@ table {
 .def{
     width: 340px;
 }
+
+@media only screen and (max-width: 900px) {
+    #wolf {
+      max-width: 400px;
+    }
+  }
+
+@media only screen and (max-width: 700px) {
+#wolf {
+    max-width: 300px;
+}
+}
