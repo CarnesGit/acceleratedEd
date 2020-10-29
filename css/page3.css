@@ -20,20 +20,20 @@ table {
     width: 340px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 991px) {
     #wolf {
       max-width: 400px;
     }
   }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 767px) {
     #wolf {
         max-width: 300px;
     }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 479px) {
     #wolf {
-        max-width: 200px;
+        max-width: 150px;
     }
 }
